@@ -1,16 +1,13 @@
-## NAME_OF_YOUR_APP_HERE
+## Introduce Student App (Codepath prework)
 
 ### App Description
 
-`TODO://` Add app description
+This app allows a student to introduce themselves by filling in some information and then generating an alert to display it. The app was created as part of the prework for Codepath's iOS course. It is meant to serve as an introduction to iOS development.
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://imgur.com/KNhHMaX.gif"><br>
 
 ### Required Features
 
@@ -23,6 +20,10 @@
 
 ### Optional Features
 
-- [ ] 1. User can tap a button to change the color of the background view
-- [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [ ] 4. Any stylistic changes that are not default options (Comment this here)
+- [X] 1. User can tap a button to change the color of the background view
+    - Background can be toggled from white to gray. Technically it toggles from the system background to systemGray6 so that the interface is still visible.
+- [X] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc. 
+    - User can input age using a slider
+- [X] 4. Any stylistic changes that are not default options 
+    - Logic added to make school year lowercase in the alert i.e. instead of "...in my Fourth year..." it is "...in my fourth year...". 
+    - Logic added to make dogs singular when only 1 pet is indicated.)
