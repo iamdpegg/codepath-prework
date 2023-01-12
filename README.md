@@ -7,7 +7,8 @@ This app allows a student to introduce themselves by filling in some information
 ### App Walk-though
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-<img src="https://imgur.com/KNhHMaX.gif"><br>
+<!-- <img src="https://imgur.com/KNhHMaX.gif"><br> -->
+![App Walkthrough](https://github.com/iamdpegg/codepath-prework/blob/main/introduce_student.gif)
 
 ### Required Features
 
